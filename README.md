@@ -11,8 +11,8 @@ In the 1985 video game "Super Mario Bros.", you play as the plumber Mario who go
 - **Fire Mario (State = 10)** = The system will enter this state when *Mario encounters a fire flower in both his small and big form*. Should Mario encounter a mushroom or another fire flower, the system will remain in this state.
 - **Dead Mario (State = 11)** = The system will enter this state when *Mario encounters an enemy and takes damage in his small form*. Any inputs received in this state will revive Mario and brings him back to his small form.
 
-##Inputs
-####This system accepts four inputs:
+## Inputs
+#### This system accepts four inputs:
 - **00 = No Input** = This input represents no inputs. Nothing will happen if the system receives this input.
 - **01 = Fire Flower** = This input represents the fire flower. Mario will transform into his fire form if he is in his small or big form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
 - **10 = Mushroom** = This input represents the mushroom. Mario will transform into his big form if he is in his small form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
