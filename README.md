@@ -31,9 +31,9 @@ From the above State Diagram, we can construct a truth table:
 ###Karnaugh Map
 From the Truth Table above, we can create a Karnaugh Map for all the states and outputs:
 #####Karnaugh Map for S0
-![KarnaughMap](Images/s0_KMap.png)
+![KarnaughMap](Images/S0_KMap.png)
 #####Karnaugh Map for S1
-![KarnaughMap](Images/s1_KMap.png)
+![KarnaughMap](Images/S1_KMap.png)
 #####Karnaugh Map for o0
 ![KarnaughMap](Images/o0_KMap.png)
 #####Karnaughh Map for o1
