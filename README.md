@@ -13,10 +13,10 @@ In the 1985 video game "Super Mario Bros.", you play as the plumber Mario who go
 
 ## Inputs
 #### This system accepts four inputs:
-- **00 = No Input** = This input represents no inputs. Nothing will happen if the system receives this input.
-- **01 = Fire Flower** = This input represents the fire flower. Mario will transform into his fire form if he is in his small or big form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
-- **10 = Mushroom** = This input represents the mushroom. Mario will transform into his big form if he is in his small form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
-- **11 = Enemy/Damage** = This input represents an encountered enemy or damage taken by Mario. If Mario is in his fire form when the system receives this input, Mario will lose his fire powers and go back to his big form. If he is in his big form when the input is received, he will go back to his small form. If Mario is in his small form when he takes damage, he will die.
+- **00 (No Input)** = This input represents no inputs. Nothing will happen if the system receives this input.
+- **01 (Fire Flower)** = This input represents the fire flower. Mario will transform into his fire form if he is in his small or big form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
+- **10 (Mushroom)** = This input represents the mushroom. Mario will transform into his big form if he is in his small form when the input is received. If the input is received when he is in his fire form, he will remain in that form.
+- **11 (Enemy/Damage)** = This input represents an encountered enemy or damage taken by Mario. If Mario is in his fire form when the system receives this input, Mario will lose his fire powers and go back to his big form. If he is in his big form when the input is received, he will go back to his small form. If Mario is in his small form when he takes damage, he will die.
 
 ## Visualization
 Attached are media I provided to visualize the system.
