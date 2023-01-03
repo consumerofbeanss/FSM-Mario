@@ -1,4 +1,4 @@
-#F SM MARIO
+# FSM MARIO
 This repository contains a system simulating the video game logic for the character Mario from the Super Mario series written in C language using Finite State Machine.
 
 ## Introduction
