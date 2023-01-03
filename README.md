@@ -2,7 +2,7 @@
 This repository contains a system simulating the video game logic for the character Mario from the Super Mario series written in C language using Finite State Machine.
 
 ##Introduction
->In the 1985 video game "Super Mario Bros.", you play as the plumber Mario who goes on a quest through the Mushroom Kingdom to save Princess Peach from Bowser the Koopa King. Throughout the game, you traverse through levels by passing through obstacles and stomping on enemies. You can also get power-ups which can help you in the game. The system will be simulating the states Mario will go through after encountering different inputs from the game.
+In the 1985 video game "Super Mario Bros.", you play as the plumber Mario who goes on a quest through the Mushroom Kingdom to save Princess Peach from Bowser the Koopa King. Throughout the game, you traverse through levels by passing through obstacles and stomping on enemies. You can also get power-ups which can help you in the game. The system will be simulating the states Mario will go through after encountering different inputs from the game.
 
 ##States
 ####This system contains four states:
